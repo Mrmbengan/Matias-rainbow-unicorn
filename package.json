@@ -1,0 +1,19 @@
+{
+  "name": "matias-rainbow-unicorn",
+  "version": "1.0.0",
+  "description": "Hello below",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrmbengan/Matias-rainbow-unicorn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mrmbengan/Matias-rainbow-unicorn/issues"
+  },
+  "homepage": "https://github.com/Mrmbengan/Matias-rainbow-unicorn#readme"
+}
