@@ -7,7 +7,8 @@ for (const i in nums) {
     console.log(nums[i])
 }
 
-type utvecklare = {
-    age: 37;
-    name: "Matias";
-};
+const obj: { name: string, age: number, beginner: boolean } = {
+    name: "Matias",
+    age: 37,
+    beginner: true,
+  };
