@@ -1,3 +1,13 @@
-const animals = ["apa", "orangutang", "gorilla", "get", "giraff"];
+function animal():string[] {
+    return new Array("apa", "orangutang", "gorilla", "get", "giraff")
+} 
 
-console.log (animals);
+const nums:string[] = animal()
+for (const i in nums) {
+    console.log(nums[i])
+}
+
+type utvecklare = {
+    age: 37;
+    name: "Matias";
+};
